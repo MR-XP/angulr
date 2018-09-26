@@ -1,0 +1,12 @@
+.hecho-true {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.logoface {
+	margin-left: -20px;
+}
+
+.navbar-brand {
+  display : none;
+}
